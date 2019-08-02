@@ -174,7 +174,7 @@ setup(
         'enum34',
         'dm_env',
         'future',
-        'futures',
+        #'futures',
         'glfw',
         'lxml',
         'numpy',
